@@ -35,3 +35,4 @@ function sendMessage() {
                     "value" : messageToSend}));
     // document.getElementById('messageToSend').value = "";
 }
+////////////////////////////////////////////////////////////////
